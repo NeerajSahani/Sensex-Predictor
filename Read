@@ -1,8 +1,0 @@
-requirements..
-quandl [pip install quandl]
-scikit learn [pip install scikit-learn]
-numpy [pip install numpy]
-matplotlib [pip install matplotlib]
-
-
-you have to put Tickers from quandl.com and percentage of data for predecion [0.1% to 10%] and app will prdict the future data
